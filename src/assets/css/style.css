@@ -1,0 +1,27 @@
+/*公共样式*/
+* {
+    /*初始化外边距*/
+    margin: 0;
+    /*初始化内边距*/
+    padding: 0;
+    /*盒子模型宽高内减操作*/
+    box-sizing: border-box;
+}
+html {
+    font-size:2.1333vw;
+}
+
+ul, li {
+    /*去除列表的样式符号*/
+    list-style: none;
+}
+
+input {
+    /*去除input的边框*/
+    border: none;
+}
+
+a {
+    /*去除下划线*/
+    text-decoration: none;
+}

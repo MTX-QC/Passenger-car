@@ -1,0 +1,18 @@
+/*分割线*/
+.separate {
+    height: 1.0667vw;
+    border: 1.0667vw solid #E5E5E5;
+    opacity: 0.8;
+
+    margin-top: 0.6667vw;
+    margin-bottom: 0.6667vw;
+}
+
+/*竖线*/
+.long_string {
+    width: 0.1333vw;
+    height: 7.4667vw;
+    border-left: 0.1333vw dashed #959595;
+
+}
+
